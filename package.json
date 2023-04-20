@@ -1,0 +1,19 @@
+{
+  "name": "dragon-and-hero",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"\" target=\"blank\"><img src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnZnXRfxpF-SRhBLmRJaIS0nO5hkKSIYNKlg&usqp=CAU\" width=\"200\" alt=\"Nest Logo\" /></a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node out/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "@types/prompt-sync": "^4.1.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
